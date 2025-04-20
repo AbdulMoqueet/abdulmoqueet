@@ -32,7 +32,7 @@
 ### 📊 Languages I use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoqueet&layout=compact&theme=radical" height="180" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoqueet&layout=compact&theme=radical" width="100%" />
 </p>
 
 ---
