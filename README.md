@@ -70,14 +70,14 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Floating Orb** | Android assistive-touch app live on the Google Play Store | React Native · Java · TypeScript |
-| **MovieVerse** | Movie discovery platform powered by the TMDB API | Next.js · TypeScript · Tailwind |
-| **The Brave Coders** | Content platform for a 10K+ subscriber community | Next.js · ShadCN UI · Tailwind |
-| **Food Gredient** | Recipe suggestions based on ingredients you already have | React · Node · REST API |
-| **Realtime Chat App** | Instant messaging powered by Socket.io | React · Redux · Node · Express |
-| **Cosmetics Store** | E-commerce site with cart & product filtering | Next.js · Redux · Tailwind |
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **Floating Orb** | Android assistive-touch app live on the Google Play Store | React Native · Java · TypeScript | [▶️ Play Store](https://play.google.com/store/apps/details?id=com.thebravecoders.floatingorb) |
+| **MovieVerse** | Movie discovery platform powered by the TMDB API | Next.js · TypeScript · Tailwind | [🔗 Live](https://movieverse-abdulmoqueet.vercel.app/) |
+| **The Brave Coders** | Content platform for a 10K+ subscriber community | Next.js · ShadCN UI · Tailwind | [🔗 Live](https://www.thebravecoders.com/) |
+| **Food Gredient** | Recipe suggestions based on ingredients you already have | React · Node · REST API | [🔗 Live](https://foodgredient.netlify.app/) |
+| **Realtime Chat App** | Instant messaging powered by Socket.io | React · Redux · Node · Express | — |
+| **Cosmetics Store** | E-commerce site with cart & product filtering | Next.js · Redux · Tailwind | [🔗 Live](https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app) |
 
 ---
 
