@@ -101,20 +101,6 @@ Promoted from intern; built React/Next.js applications and earned the Star Perfo
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulMoqueet&theme=tokyonight" alt="profile details" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdulMoqueet&theme=tokyonight" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulMoqueet&theme=tokyonight" alt="most committed language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulMoqueet&theme=tokyonight" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdulMoqueet&theme=tokyonight&utcOffset=5.5" alt="productive time" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoqueet&theme=tokyonight&hide_border=true&background=1A1B27&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak stats" />
 </p>
 
